@@ -61,6 +61,11 @@ header{
     gap: 1.5rem
 }
 
+.topStats{
+    display: flex;
+    justify-content: space-around;
+}
+
 .banner{
     display: flex;
     background-color: brown;
